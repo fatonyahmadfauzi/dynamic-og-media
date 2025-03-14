@@ -4,12 +4,14 @@ Cloudflare Worker yang menyediakan OG Image & Video dinamis berdasarkan waktu lo
 
 ## Struktur Proyek
 
+```bash
 dynamic-og-worker/
 ├── src/
 │ └── worker.js # Kode utama Worker
 ├── wrangler.toml # Konfigurasi Cloudflare Worker
 ├── package.json # Dependensi dan skrip
 └── README.md
+```
 
 ## Deployment
 
