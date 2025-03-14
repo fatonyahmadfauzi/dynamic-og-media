@@ -1,0 +1,6 @@
+name = "dynamic-og-worker"
+compatibility_date = "2024-03-15"
+main = "src/worker.js"  # Sesuaikan dengan path file worker
+
+[build.upload]
+format = "service-worker"
