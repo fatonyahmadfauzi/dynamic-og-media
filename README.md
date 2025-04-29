@@ -5,7 +5,7 @@ Cloudflare Worker yang menyediakan OG Image & Video dinamis berdasarkan waktu lo
 ## Struktur Proyek
 
 ```bash
-og-media-worker/
+dynamic-og-media/
 ├── src/
 │ └── worker.js # Kode utama Worker
 ├── wrangler.toml # Konfigurasi Cloudflare Worker
@@ -18,8 +18,8 @@ og-media-worker/
 1. **Clone repositori**
 
    ```bash
-   git clone https://github.com/yourusername/dynamic-og-worker.git
-   cd dynamic-og-worker
+   git clone https://github.com/yourusername/dynamic-og-media.git
+   cd dynamic-og-media
    ```
 
 2. **Install dependencies**

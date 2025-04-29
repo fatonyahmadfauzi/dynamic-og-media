@@ -1,5 +1,5 @@
 {
-    "name": "dynamic-og-worker",
+    "name": "dynamic-og-media",
     "version": "1.0.0",
     "devDependencies": {
         "wrangler": "^4.0.0"

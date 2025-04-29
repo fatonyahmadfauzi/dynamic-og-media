@@ -1,4 +1,4 @@
-name = "og-media-worker"
+name = "dynamic-og-media"
 compatibility_date = "2023-04-23"
 main = "src/worker.js"  # Sesuaikan dengan path file worker
 
